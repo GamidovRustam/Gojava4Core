@@ -33,6 +33,7 @@ class App {
         myCollection.removeByIndex(2);
         System.out.println("remove value '125' by index '2': ");
         System.out.println(myCollection + "\n");
+
     }
 
 }
