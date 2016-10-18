@@ -1,0 +1,8 @@
+# folder
+.idea/*
+target/*
+/src/main/resources/
+
+# .iml file
+/Gojava4Core.iml
+
