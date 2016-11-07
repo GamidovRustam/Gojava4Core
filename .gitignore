@@ -2,7 +2,9 @@
 .idea/*
 target/*
 /src/main/resources/
+/src/main/java/zpractice/
 
 # .iml file
 /Gojava4Core.iml
 
+/src/main/java/zpractice/tasks01/
